@@ -1,0 +1,3 @@
+Note: calculator.c can only evaluation a single operation.
+c++alculator.cpp can evaluate multiple operations with parentheses.
+I hope...
